@@ -1,0 +1,19 @@
+/**
+ * EditSections2 Plugin for DokuWiki / style.css
+ * 
+ * @author Ben Coburn <btcoburn@silicodon.net>
+ * @author Kazutaka Miyasaka <kazmiya@gmail.com>
+ */
+
+.secedit button,
+.editbutton_section button {
+  margin-top: 1.5em !important;
+}
+
+.editbutton_table button {
+  margin-top: 0em;
+}
+
+.editbutton_2 {
+display: none;
+}
